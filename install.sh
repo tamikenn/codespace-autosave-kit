@@ -1,4 +1,4 @@
-  ⎿ #!/bin/bash                                                                                    
+    #!/bin/bash                                                                                    
     # Codespace AutoSave Kit - Universal Installer
     # One-command setup for any GitHub Codespace
 
